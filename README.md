@@ -654,7 +654,6 @@ Practice problems: [Project Euler](https://projecteuler.net) - Google for answer
   - [Problem 16](https://projecteuler.net/problem=16)
   - [Problem 20](https://projecteuler.net/problem=20)
   - [Problem 21](https://projecteuler.net/problem=21)
-  - [Problem 22](https://projecteuler.net/problem=22)
   - [Problem 23](https://projecteuler.net/problem=23)
   - [Problem 25](https://projecteuler.net/problem=25)
   - [Problem 29](https://projecteuler.net/problem=29)
