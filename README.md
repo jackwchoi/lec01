@@ -649,7 +649,6 @@ Practice problems: [Project Euler](https://projecteuler.net) - Google for answer
   - [Problem 5](https://projecteuler.net/problem=5)
   - [Problem 6](https://projecteuler.net/problem=6)
   - [Problem 9](https://projecteuler.net/problem=9)
-  - [Problem 12](https://projecteuler.net/problem=12)
   - [Problem 14](https://projecteuler.net/problem=14)
   - [Problem 16](https://projecteuler.net/problem=16)
   - [Problem 20](https://projecteuler.net/problem=20)
