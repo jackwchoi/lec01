@@ -586,7 +586,7 @@ public class Main {
 ## Git and GitHub
 
 __`Readings`__:
-1. [6.031 reading on Version Control](http://web.mit.edu/6.031/www/fa18/classes/05-version-control/)
+1. [6.031 reading on Version Control](http://web.mit.edu/6.031/www/fa18/classes/05-version-control/), you __DON'T__ need to know how to use Git in a multi-person setting
 1. [Step 5 of 6.031 reading on Git](http://web.mit.edu/6.031/www/fa18/getting-started/), __WITHOUT__ doing the GitStream exercises
 
 The 6.178 GitHub page can be found by visiting `https://github.mit.edu/orgs/6178-2019`.
