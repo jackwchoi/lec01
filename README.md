@@ -583,7 +583,7 @@ public class Main {
     }
     ```
 
-<!-- ## Git and GitHub
+## Git and GitHub
 
 __`Readings`__:
 1. [6.031 reading on Version Control](http://web.mit.edu/6.031/www/fa18/classes/05-version-control/)
@@ -662,4 +662,4 @@ Practice problems: [Project Euler](https://projecteuler.net) - Google for answer
   - [Problem 32](https://projecteuler.net/problem=32)
   - [Problem 33](https://projecteuler.net/problem=33)
   - [Problem 34](https://projecteuler.net/problem=34)
-  - [Problem 36](https://projecteuler.net/problem=36) -->
+  - [Problem 36](https://projecteuler.net/problem=36)
