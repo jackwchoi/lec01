@@ -609,7 +609,7 @@ Let's clone this lecture's repo to your `Desktop`:
 
 ```bash
 cd ~/Desktop/                                     # or any other directory
-git clone git@github.mit.edu:6178-2019/lec01.git  # the SSH URL of lecture 1 repo
+git clone git@github.com:jchoi5me/lec01.git  # the SSH URL of lecture 1 repo
 ```
 
 This creates a directory called `lec01` in your `Desktop`, and it contains all files that `lec01` remote repo contained.
